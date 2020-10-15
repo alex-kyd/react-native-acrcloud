@@ -1,0 +1,28 @@
+
+{
+  "name": "react-native-acrcloud",
+  "version": "0.1.0",
+  "description": "A native module for the ACRCloud Music Recognition Service",
+  "main": "index.js",
+  "author": "Alexander <alexaner@adappt.co> (https://github.com/alex-kyd)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-kyd/react-native-acrcloud.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alex-kyd/react-native-acrcloud.git/issues"
+  },
+  "homepage": "https://github.com/alex-kyd/react-native-acrcloud.git#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "acrloud"
+  ],
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
